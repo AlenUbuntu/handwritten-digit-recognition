@@ -19,7 +19,7 @@ kaggle handwritten digit recognition program, implemented with K-NN, Random Fore
 
 ![after filtering](https://github.com/AlenUbuntu/handwritten-digit-recognition/blob/master/Source%20Code/preprocessing%20in%20java/filteredImage43.jpg)
 
-###Input for Digit Recognition Program
+###Final Input for Digit Recognition Program after preprocessing
 
 ![sample of digit picture](https://github.com/AlenUbuntu/handwritten-digit-recognition/blob/master/Source%20Code/preprocessing%20in%20java/output3.jpg?raw=true)
  
